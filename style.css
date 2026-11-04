@@ -1,0 +1,70 @@
+
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: teal;
+    color: darkslategray;
+}
+#container {
+    width: 80%;
+    margin: 50px auto;
+    padding: 24px;
+    background: snow;
+    border: 2px solid lightblue;
+}
+#header {
+    text-align: center;
+    padding-bottom: 12px;
+    margin-bottom: 24px;
+    border-bottom: 2px solid paleturquoise;
+}
+#profile {
+    width: 130px;
+    height: 130px;
+    border-radius: 80%;
+    border: 3px solid teal;
+}
+h1 {
+    color: teal;
+}
+.subtitle {
+    color: cadetblue;
+    font-style: italic;
+}
+.section {
+    padding: 16px;
+    margin-bottom: 20px;
+    background: mintcream;
+    border: 1px solid lightblue;
+}
+.section h2 {
+    color: teal;
+    border-bottom: 2px solid paleturquoise;
+    padding-bottom: 8px;
+}
+.section h3 {
+    color: cadetblue;
+}
+.section p {
+    line-height: 1.6;
+}
+
+.section ol {
+    padding-left: 25px;
+    line-height: 2;
+}
+.section a {
+    color: teal;
+    text-decoration: none;
+}
+.section a:hover {
+    color: blue;
+    text-decoration: underline;
+}
+#footer {
+    text-align: center;
+    padding: 15px;
+    background: powderblue;
+    color: darkslategray;
+    margin-top: 20px;
+}
